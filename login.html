@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>University Single Sign-On | Chandigarh University MBA Analytics</title>
+  <meta name="description" content="Secure University Portal Login for Student Performance & Placement Analytics System at Chandigarh University.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-dark login-body">
+  <div class="login-ambient-glow glow-1"></div>
+  <div class="login-ambient-glow glow-2"></div>
+  <div class="login-ambient-glow glow-3"></div>
+
+  <div class="login-wrapper">
+    <!-- Left / Brand Showcase Column -->
+    <div class="login-brand-panel">
+      <div class="panel-content">
+        <div class="cu-crest-badge">
+          <img src="cu_official_logo.png" alt="Chandigarh University Official Logo" class="cu-login-logo">
+          <div class="crest-text">
+            <span class="crest-uni">CHANDIGARH UNIVERSITY</span>
+            <span class="crest-naac">NAAC A+ ACCREDITED • APEX ANALYTICS</span>
+          </div>
+        </div>
+
+        <div class="brand-hero-text">
+          <h2>Student Performance &amp; Placement Analytics System</h2>
+          <p class="hero-desc">
+            An econometric &amp; prescriptive decision-support portal evaluating student grades, attendance compliance, corporate placement compensation, and real-time intervention roadmaps.
+          </p>
+        </div>
+
+        <div class="brand-stats-row">
+          <div class="brand-stat-item">
+            <span class="stat-number">520</span>
+            <span class="stat-lbl">Active MBA Cohort</span>
+          </div>
+          <div class="brand-stat-item">
+            <span class="stat-number">0.924</span>
+            <span class="stat-lbl">Regression R² Model</span>
+          </div>
+          <div class="brand-stat-item">
+            <span class="stat-number">77.3%</span>
+            <span class="stat-lbl">Placement Conversion</span>
+          </div>
+        </div>
+
+        <div class="institutional-badge-footer">
+          <div class="naac-pill">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+            </svg>
+            <span>University Department of Business Studies &amp; CRC</span>
+          </div>
+          <span class="academic-year">Academic Session 2024–2025</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right / Login Card Column -->
+    <div class="login-form-panel">
+      <div class="login-card">
+        <div class="login-card-header">
+          <div class="secure-tag">
+            <span class="live-dot"></span>
+            <span>UNIVERSITY SSO GATEWAY</span>
+          </div>
+          <h1 class="login-card-title">Portal Authentication</h1>
+          <p class="login-card-sub">Select your institutional role to access analytics dashboards</p>
+        </div>
+
+        <!-- Role Selector Tabs -->
+        <div class="role-selector" id="roleSelector">
+          <button type="button" class="role-pill active" data-role="dean" data-email="dean.business@cumohali.in" data-name="Prof. (Dr.) Rajesh Sharma" data-title="Dean, Academic Affairs">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+              <circle cx="12" cy="7" r="4"></circle>
+            </svg>
+            <span>Dean / Admin</span>
+          </button>
+          <button type="button" class="role-pill" data-role="crc" data-email="crc.placement@cumohali.in" data-name="Dr. Meenakshi Kapoor" data-title="Head - Corporate Relations (CRC)">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+              <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+            </svg>
+            <span>CRC Placements</span>
+          </button>
+          <button type="button" class="role-pill" data-role="faculty" data-email="faculty.mba@cumohali.in" data-name="Dr. Vikram Malhotra" data-title="Faculty Program Chair (MBA)">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+              <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+            </svg>
+            <span>Faculty Mentor</span>
+          </button>
+        </div>
+
+        <!-- Login Form -->
+        <form class="login-form" id="loginForm">
+          <div class="form-group">
+            <label for="userEmail">University Email / UID</label>
+            <div class="input-with-icon">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                <polyline points="22,6 12,13 2,6"></polyline>
+              </svg>
+              <input type="text" id="userEmail" required value="dean.business@cumohali.in" placeholder="UID or university email">
+            </div>
+          </div>
+
+          <div class="form-group">
+            <div class="label-row">
+              <label for="userPassword">Password / Security Pin</label>
+              <a href="javascript:void(0)" class="forgot-link" id="forgotPwdBtn">Default: cu@2024</a>
+            </div>
+            <div class="input-with-icon">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+              </svg>
+              <input type="password" id="userPassword" required value="cu@2024" placeholder="Enter your password">
+              <button type="button" class="pwd-toggle-btn" id="pwdToggleBtn" aria-label="Toggle password visibility">
+                <svg id="eyeIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                  <circle cx="12" cy="12" r="3"></circle>
+                </svg>
+              </button>
+            </div>
+          </div>
+
+          <div class="form-options">
+            <label class="remember-me">
+              <input type="checkbox" id="rememberMe" checked>
+              <span>Keep authenticated on this terminal</span>
+            </label>
+            <span class="auth-mode">256-Bit SSL</span>
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-block btn-lg" id="submitLoginBtn">
+            <span id="btnText">Sign In to Analytics Portal</span>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+              <polyline points="12 5 19 12 12 19"></polyline>
+            </svg>
+          </button>
+        </form>
+
+        <!-- Quick One-Click Evaluator Demo Credentials -->
+        <div class="quick-demo-box">
+          <div class="quick-demo-header">
+            <span>QUICK DEMO PREVIEWS FOR EVALUATORS:</span>
+          </div>
+          <div class="demo-buttons-grid">
+            <button type="button" class="btn btn-sm btn-outline demo-btn" data-preset="dean">
+              <span>Dean Access</span>
+            </button>
+            <button type="button" class="btn btn-sm btn-outline demo-btn" data-preset="crc">
+              <span>CRC Head</span>
+            </button>
+            <button type="button" class="btn btn-sm btn-outline demo-btn" data-preset="faculty">
+              <span>Faculty Chair</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="login-footer-info">
+          <p>Chandigarh University Institutional ERP &bull; Apex Decision Support System</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Login Controller & Profile Management
+    document.addEventListener('DOMContentLoaded', () => {
+      const form = document.getElementById('loginForm');
+      const emailInput = document.getElementById('userEmail');
+      const pwdInput = document.getElementById('userPassword');
+      const pwdToggleBtn = document.getElementById('pwdToggleBtn');
+      const rolePills = document.querySelectorAll('.role-pill');
+      const demoBtns = document.querySelectorAll('.demo-btn');
+      const submitBtn = document.getElementById('submitLoginBtn');
+      const btnText = document.getElementById('btnText');
+
+      let currentProfile = {
+        name: 'Prof. (Dr.) Rajesh Sharma',
+        role: 'Dean / Admin',
+        email: 'dean.business@cumohali.in',
+        title: 'Dean, Academic Affairs & Business Studies'
+      };
+
+      // Role Pill Click
+      rolePills.forEach(pill => {
+        pill.addEventListener('click', () => {
+          rolePills.forEach(p => p.classList.remove('active'));
+          pill.classList.add('active');
+          const email = pill.getAttribute('data-email');
+          const name = pill.getAttribute('data-name');
+          const title = pill.getAttribute('data-title');
+          const role = pill.querySelector('span').textContent;
+
+          emailInput.value = email;
+          currentProfile = { name, role, email, title };
+        });
+      });
+
+      // Quick Demo Buttons
+      demoBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          const preset = btn.getAttribute('data-preset');
+          const targetPill = document.querySelector(`.role-pill[data-role="${preset}"]`);
+          if (targetPill) {
+            targetPill.click();
+            // Trigger instant auto-login for slick presentation
+            form.dispatchEvent(new Event('submit'));
+          }
+        });
+      });
+
+      // Password visibility toggle
+      pwdToggleBtn.addEventListener('click', () => {
+        const isPwd = pwdInput.type === 'password';
+        pwdInput.type = isPwd ? 'text' : 'password';
+      });
+
+      // Submit Form Handler
+      form.addEventListener('submit', (e) => {
+        e.preventDefault();
+
+        // Loading state
+        submitBtn.disabled = true;
+        btnText.textContent = 'Authenticating with CU SSO...';
+
+        // Save session authentication
+        localStorage.setItem('cu_auth_user', JSON.stringify({
+          name: currentProfile.name,
+          role: currentProfile.role,
+          email: emailInput.value || currentProfile.email,
+          title: currentProfile.title,
+          loginTime: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+        }));
+
+        setTimeout(() => {
+          window.location.href = 'index.html';
+        }, 600);
+      });
+    });
+  </script>
+</body>
+</html>

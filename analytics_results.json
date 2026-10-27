@@ -1,0 +1,198 @@
+{
+  "descriptive_statistics": {
+    "total_students": 520,
+    "placed_students": 402,
+    "unplaced_students": 118,
+    "overall_placement_rate": 77.31,
+    "attendance": {
+      "mean": 78.0,
+      "median": 77.9,
+      "std": 8.99,
+      "min": 54.3,
+      "max": 99.0
+    },
+    "cgpa": {
+      "mean": 6.73,
+      "median": 6.73,
+      "std": 1.0,
+      "min": 4.6,
+      "max": 9.45
+    },
+    "salary_placed": {
+      "mean": 9.91,
+      "median": 9.56,
+      "std": 2.05,
+      "min": 5.32,
+      "max": 16.09
+    }
+  },
+  "hypothesis_tests": {
+    "attendance_threshold_analysis": {
+      "low_attendance_count": 195,
+      "high_attendance_count": 325,
+      "low_att_placement_rate": 49.23,
+      "high_att_placement_rate": 94.15,
+      "low_att_avg_cgpa": 5.9,
+      "high_att_avg_cgpa": 7.22,
+      "t_stat_cgpa": 19.6003,
+      "p_value_cgpa": 3.2354e-62,
+      "low_att_placed_salary": 8.31,
+      "high_att_placed_salary": 10.41,
+      "t_stat_salary": 12.2039,
+      "p_value_salary": 3.2171e-27,
+      "conclusion": "Students with >=75% attendance demonstrate statistically significant superiority in both CGPA (p < 0.001) and placement packages."
+    }
+  },
+  "specialisation_analytics": {
+    "Business Analytics": {
+      "cohort_size": 114,
+      "placement_rate": 83.33,
+      "avg_cgpa": 6.86,
+      "avg_attendance": 79.17,
+      "avg_placed_salary": 11.09,
+      "max_placed_salary": 16.09
+    },
+    "Finance": {
+      "cohort_size": 143,
+      "placement_rate": 74.83,
+      "avg_cgpa": 6.67,
+      "avg_attendance": 77.49,
+      "avg_placed_salary": 10.04,
+      "max_placed_salary": 15.15
+    },
+    "Human Resource Management": {
+      "cohort_size": 78,
+      "placement_rate": 65.38,
+      "avg_cgpa": 6.52,
+      "avg_attendance": 76.18,
+      "avg_placed_salary": 8.82,
+      "max_placed_salary": 13.35
+    },
+    "Marketing": {
+      "cohort_size": 136,
+      "placement_rate": 80.88,
+      "avg_cgpa": 6.75,
+      "avg_attendance": 78.65,
+      "avg_placed_salary": 9.53,
+      "max_placed_salary": 14.75
+    },
+    "Operations & Supply Chain": {
+      "cohort_size": 49,
+      "placement_rate": 79.59,
+      "avg_cgpa": 6.85,
+      "avg_attendance": 77.9,
+      "avg_placed_salary": 9.16,
+      "max_placed_salary": 12.95
+    }
+  },
+  "correlation_matrix": {
+    "overall_cgpa": {
+      "overall_cgpa": 1.0,
+      "attendance_percentage": 0.772,
+      "aptitude_score": 0.673,
+      "soft_skills_score": 0.631,
+      "certifications_count": 0.194,
+      "live_projects_count": -0.02,
+      "placement_salary_lpa": 0.799
+    },
+    "attendance_percentage": {
+      "overall_cgpa": 0.772,
+      "attendance_percentage": 1.0,
+      "aptitude_score": 0.648,
+      "soft_skills_score": 0.57,
+      "certifications_count": 0.226,
+      "live_projects_count": -0.026,
+      "placement_salary_lpa": 0.736
+    },
+    "aptitude_score": {
+      "overall_cgpa": 0.673,
+      "attendance_percentage": 0.648,
+      "aptitude_score": 1.0,
+      "soft_skills_score": 0.584,
+      "certifications_count": 0.255,
+      "live_projects_count": -0.041,
+      "placement_salary_lpa": 0.728
+    },
+    "soft_skills_score": {
+      "overall_cgpa": 0.631,
+      "attendance_percentage": 0.57,
+      "aptitude_score": 0.584,
+      "soft_skills_score": 1.0,
+      "certifications_count": 0.162,
+      "live_projects_count": -0.018,
+      "placement_salary_lpa": 0.685
+    },
+    "certifications_count": {
+      "overall_cgpa": 0.194,
+      "attendance_percentage": 0.226,
+      "aptitude_score": 0.255,
+      "soft_skills_score": 0.162,
+      "certifications_count": 1.0,
+      "live_projects_count": 0.006,
+      "placement_salary_lpa": 0.432
+    },
+    "live_projects_count": {
+      "overall_cgpa": -0.02,
+      "attendance_percentage": -0.026,
+      "aptitude_score": -0.041,
+      "soft_skills_score": -0.018,
+      "certifications_count": 0.006,
+      "live_projects_count": 1.0,
+      "placement_salary_lpa": 0.099
+    },
+    "placement_salary_lpa": {
+      "overall_cgpa": 0.799,
+      "attendance_percentage": 0.736,
+      "aptitude_score": 0.728,
+      "soft_skills_score": 0.685,
+      "certifications_count": 0.432,
+      "live_projects_count": 0.099,
+      "placement_salary_lpa": 1.0
+    }
+  },
+  "salary_regression_model": {
+    "r2_score": 0.9239,
+    "mae_lpa": 0.4355,
+    "rmse_lpa": 0.5371,
+    "coefficients": {
+      "overall_cgpa": 0.9286,
+      "attendance_percentage": 0.0318,
+      "aptitude_score": 0.0484,
+      "soft_skills_score": 0.3673,
+      "certifications_count": 0.3417,
+      "live_projects_count": 0.2634,
+      "specialisation_Finance": -0.6769,
+      "specialisation_Human Resource Management": -2.0958,
+      "specialisation_Marketing": -1.2353,
+      "specialisation_Operations & Supply Chain": -1.6837,
+      "Intercept": -5.1274
+    }
+  },
+  "placement_classification_model": {
+    "accuracy": 0.8558,
+    "roc_auc": 0.8906,
+    "feature_weights": {
+      "overall_cgpa": 1.2067,
+      "attendance_percentage": 0.0874,
+      "aptitude_score": 0.0697,
+      "soft_skills_score": 1.018,
+      "certifications_count": 0.5463,
+      "live_projects_count": 0.3747,
+      "specialisation_Finance": -0.6436,
+      "specialisation_Human Resource Management": -0.8371,
+      "specialisation_Marketing": 0.154,
+      "specialisation_Operations & Supply Chain": -0.1978
+    },
+    "intercept": -24.1492
+  },
+  "interventions_summary": {
+    "Placement Polish": 166,
+    "Academic & Attendance Recovery": 101,
+    "Attendance Compliance": 97,
+    "Holistic Intervention": 76,
+    "High-Performer Acceleration": 45,
+    "Aptitude Enhancement": 14,
+    "Domain Knowledge & Certifications": 14,
+    "Soft Skills & Employability": 7
+  }
+}

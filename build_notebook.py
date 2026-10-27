@@ -1,0 +1,207 @@
+import json
+
+notebook = {
+    "cells": [
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "# Chandigarh University - MBA Analytics Major Project\n",
+                "## Student Performance & Placement Analytics\n",
+                "**Problem Statement**: Business schools lack insight into how academic scores, attendance, and specialisation affect students' placement outcomes.\n",
+                "**Objective**: Analyze student marks, attendance, specialisation, and placement data; calculate grades and performance bands; evaluate econometric links with placement CTC; and generate prescriptive academic interventions."
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 1. Environment Setup & Data Loading"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "import pandas as pd\n",
+                "import numpy as np\n",
+                "import matplotlib.pyplot as plt\n",
+                "import seaborn as sns\n",
+                "from scipy import stats\n",
+                "from sklearn.linear_model import LinearRegression, LogisticRegression\n",
+                "from sklearn.model_selection import train_test_split\n",
+                "from sklearn.metrics import r2_score, mean_absolute_error, classification_report, roc_auc_score\n",
+                "\n",
+                "# Style configuration\n",
+                "sns.set_theme(style='whitegrid')\n",
+                "plt.rcParams['figure.figsize'] = (10, 6)\n",
+                "\n",
+                "# Load dataset\n",
+                "df = pd.read_csv('students_dataset.csv')\n",
+                "print(f'Cohort Dimensions: {df.shape[0]} students, {df.shape[1]} attributes')\n",
+                "df.head()"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 2. Descriptive Analytics & Academic Grading Distribution"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Overall descriptive statistics\n",
+                "display_cols = ['overall_cgpa', 'attendance_percentage', 'aptitude_score', 'soft_skills_score', 'certifications_count', 'placement_salary_lpa']\n",
+                "df[display_cols].describe().round(2)"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Performance Bands Breakdown\n",
+                "band_dist = df['performance_band'].value_counts(normalize=True) * 100\n",
+                "print('Performance Bands (%):\\n', band_dist.round(1))\n",
+                "\n",
+                "# Grade Distribution\n",
+                "grade_order = ['O', 'A+', 'A', 'B+', 'B', 'C']\n",
+                "plt.figure(figsize=(8, 4))\n",
+                "sns.countplot(data=df, x='grade', order=grade_order, palette='mako')\n",
+                "plt.title('Grade Distribution Across MBA Cohort (10-Point Scale)')\n",
+                "plt.xlabel('Academic Grade')\n",
+                "plt.ylabel('Student Count')\n",
+                "plt.show()"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 3. Hypothesis Testing: The 75% Attendance Threshold Effect\n",
+                "Does meeting university attendance threshold (>=75%) significantly impact academic CGPA and placement package?"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "low_att = df[df['attendance_percentage'] < 75.0]\n",
+                "high_att = df[df['attendance_percentage'] >= 75.0]\n",
+                "\n",
+                "t_stat_cgpa, p_val_cgpa = stats.ttest_ind(high_att['overall_cgpa'], low_att['overall_cgpa'], equal_var=False)\n",
+                "print(f'CGPA Comparison:')\n",
+                "print(f'  - Attendance < 75% Mean CGPA: {low_att[\"overall_cgpa\"].mean():.2f}')\n",
+                "print(f'  - Attendance >= 75% Mean CGPA: {high_att[\"overall_cgpa\"].mean():.2f}')\n",
+                "print(f'  - Welch t-statistic: {t_stat_cgpa:.3f}, p-value: {p_val_cgpa:.4e}')\n",
+                "\n",
+                "print('\\nPlacement Rate Comparison:')\n",
+                "print(f'  - Low Attendance (<75%) Placement Rate: {(low_att[\"placement_status\"] == \"Placed\").mean()*100:.1f}%')\n",
+                "print(f'  - High Attendance (>=75%) Placement Rate: {(high_att[\"placement_status\"] == \"Placed\").mean()*100:.1f}%')"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 4. Correlation Analysis: Academic Metrics vs Placement CTC"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "placed_df = df[df['placement_status'] == 'Placed']\n",
+                "corr_subset = placed_df[['overall_cgpa', 'attendance_percentage', 'aptitude_score', 'soft_skills_score', 'certifications_count', 'placement_salary_lpa']]\n",
+                "plt.figure(figsize=(9, 7))\n",
+                "sns.heatmap(corr_subset.corr(), annot=True, fmt='.2f', cmap='Blues', square=True)\n",
+                "plt.title('Correlation Matrix (Placed MBA Candidates)')\n",
+                "plt.show()"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 5. Econometric Modeling: Multiple Linear Regression for Placement CTC"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Feature Matrix\n",
+                "X_reg = pd.get_dummies(placed_df[['overall_cgpa', 'attendance_percentage', 'aptitude_score', 'soft_skills_score', 'certifications_count', 'live_projects_count', 'specialisation']], drop_first=True)\n",
+                "y_reg = placed_df['placement_salary_lpa']\n",
+                "\n",
+                "X_train, X_test, y_train, y_test = train_test_split(X_reg, y_reg, test_size=0.20, random_state=42)\n",
+                "reg = LinearRegression()\n",
+                "reg.fit(X_train, y_train)\n",
+                "\n",
+                "y_pred = reg.predict(X_test)\n",
+                "print(f'Multiple Linear Regression Performance:')\n",
+                "print(f'  - R² Score: {r2_score(y_test, y_pred):.3f}')\n",
+                "print(f'  - Mean Absolute Error (MAE): {mean_absolute_error(y_test, y_pred):.3f} LPA')\n",
+                "\n",
+                "# Regression Coefficients\n",
+                "coef_df = pd.DataFrame({'Feature': X_reg.columns, 'Coefficient (LPA Impact)': reg.coef_})\n",
+                "coef_df = coef_df.sort_values(by='Coefficient (LPA Impact)', ascending=False)\n",
+                "display(coef_df)"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 6. Prescriptive Interventions: Academic Remediation Matrix"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "print('Academic Interventions Distribution:')\n",
+                "print(df['intervention_category'].value_counts())\n",
+                "\n",
+                "# Export priority at-risk list\n",
+                "at_risk = df[df['performance_band'].isin(['Band 3: Skill Deficit (Moderate Risk)', 'Band 4: Critical Academic Intervention'])]\n",
+                "print(f'\\nTotal Students Flagged for Intervention: {len(at_risk)}')\n",
+                "at_risk[['student_id', 'full_name', 'specialisation', 'overall_cgpa', 'attendance_percentage', 'recommended_intervention']].head(10)"
+            ]
+        }
+    ],
+    "metadata": {
+        "kernelspec": {
+            "display_name": "Python 3",
+            "language": "python",
+            "name": "python3"
+        },
+        "language_info": {
+            "name": "python",
+            "version": "3.13"
+        }
+    },
+    "nbformat": 4,
+    "nbformat_minor": 4
+}
+
+with open("student_performance_analytics.ipynb", "w", encoding="utf-8") as f:
+    json.dump(notebook, f, indent=2)
+
+print("Generated student_performance_analytics.ipynb successfully.")

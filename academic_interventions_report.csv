@@ -1,0 +1,291 @@
+student_id,full_name,specialisation,overall_cgpa,attendance_percentage,performance_band,recommended_intervention
+CU-MBA-2024-001,Aarav Gill,Finance,5.88,70.0,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-002,Aaradhya Thakur,Business Analytics,5.68,61.0,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-003,Karan Patel,Business Analytics,6.66,76.2,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-004,Tanvi Mishra,Marketing,7.0,71.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-006,Shivam Rathore,Marketing,6.13,73.1,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-008,Shaurya Singh,Marketing,5.97,68.9,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-009,Sara Mishra,Finance,5.62,80.9,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-012,Nikhil Gupta,Marketing,5.38,65.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-013,Aditya Rathore,Human Resource Management,5.38,73.7,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-014,Shreya Bansal,Human Resource Management,6.27,73.3,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-020,Pallavi Yadav,Business Analytics,5.97,81.1,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-021,Simran Nair,Marketing,6.54,79.6,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-024,Ananya Chauhan,Marketing,6.05,74.8,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-025,Aaradhya Kaur,Operations & Supply Chain,6.48,66.2,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-027,Ansh Rathore,Finance,6.44,85.8,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-029,Riya Malhotra,Marketing,5.19,71.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-031,Harsh Chhabra,Operations & Supply Chain,6.69,78.5,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-033,Pari Saxena,Marketing,7.17,82.7,Band 3: Skill Deficit (Moderate Risk),Quantitative Aptitude & Logical Reasoning Masterclass
+CU-MBA-2024-034,Siddharth Sharma,Finance,6.81,72.2,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-041,Dhruv Garg,Business Analytics,5.64,68.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-042,Aadhya Jain,Marketing,5.4,70.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-044,Aadhya Garg,Finance,6.54,80.0,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-046,Ayush Chhabra,Finance,6.4,74.7,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-048,Aaradhya Thakur,Marketing,6.65,76.0,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-049,Muskan Gill,Finance,6.34,78.1,Band 3: Skill Deficit (Moderate Risk),Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-051,Vihaan Kapoor,Finance,5.81,74.1,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-053,Aditya Reddy,Finance,6.2,77.6,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-054,Vivaan Bansal,Marketing,6.62,90.0,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-056,Sneha Nair,Operations & Supply Chain,6.82,74.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-057,Sai Kumar,Finance,7.75,74.8,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-058,Khushi Dhillon,Finance,6.3,65.7,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-059,Ayush Dhillon,Business Analytics,6.27,77.7,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-060,Reyansh Chopra,Operations & Supply Chain,6.42,69.5,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-062,Sneha Chauhan,Human Resource Management,6.1,71.5,Band 3: Skill Deficit (Moderate Risk),Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-063,Vivaan Chauhan,Marketing,4.85,71.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-065,Sonali Yadav,Business Analytics,5.43,66.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-067,Siddharth Mehta,Marketing,7.06,75.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-069,Pallavi Sandhu,Finance,5.71,65.8,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-070,Meera Yadav,Finance,6.59,82.6,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-071,Anika Chauhan,Finance,5.84,68.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-075,Vihaan Garg,Finance,6.02,76.0,Band 3: Skill Deficit (Moderate Risk),Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-076,Ayush Saxena,Finance,7.27,72.9,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-077,Nikhil Jain,Finance,5.81,75.2,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-080,Ananya Bansal,Operations & Supply Chain,6.21,69.8,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-082,Aadhya Garg,Business Analytics,6.4,80.6,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-084,Aanya Chopra,Finance,6.66,70.6,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-086,Atharv Sandhu,Human Resource Management,6.44,80.8,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-087,Meera Gill,Finance,6.71,73.9,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-088,Shivam Dhillon,Business Analytics,6.22,79.9,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-089,Disha Chhabra,Marketing,6.68,78.0,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-090,Tushar Gill,Human Resource Management,6.92,73.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-091,Khushi Goyal,Finance,6.17,74.2,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-092,Sneha Kapoor,Human Resource Management,6.51,80.5,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-093,Aditi Dhillon,Operations & Supply Chain,5.51,73.7,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-094,Kriti Bhatia,Finance,6.75,74.2,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-099,Tanvi Singh,Human Resource Management,6.31,74.5,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-100,Aanya Goyal,Human Resource Management,6.84,83.1,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-101,Ansh Thakur,Human Resource Management,6.15,74.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-103,Siddharth Jain,Marketing,5.68,74.5,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-105,Riya Jain,Business Analytics,5.87,72.2,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-106,Reyansh Patel,Marketing,6.35,79.4,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-111,Shivam Gill,Marketing,6.15,72.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-112,Kriti Bansal,Business Analytics,6.39,71.5,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-113,Rishabh Kapoor,Business Analytics,5.63,64.9,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-115,Manish Rathore,Business Analytics,5.95,66.9,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-116,Simran Yadav,Marketing,5.68,67.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-117,Isha Kapoor,Marketing,6.31,79.2,Band 4: Critical Academic Intervention,Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-118,Nikita Rathore,Business Analytics,6.57,75.5,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-120,Vivaan Saxena,Business Analytics,5.47,66.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-122,Yash Reddy,Finance,6.42,71.5,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-125,Kartik Bansal,Marketing,7.01,73.2,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-126,Pranav Kapoor,Finance,5.57,76.4,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-128,Navya Kumar,Marketing,7.07,74.9,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-130,Aditi Patel,Business Analytics,6.24,81.9,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-131,Nikhil Sharma,Marketing,4.74,60.7,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-132,Aryan Nair,Finance,6.18,70.7,Band 3: Skill Deficit (Moderate Risk),Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-136,Kriti Dhillon,Finance,6.33,80.0,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-137,Siddharth Kaur,Marketing,6.56,82.2,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-138,Siddharth Kumar,Human Resource Management,5.24,70.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-140,Diya Kumar,Business Analytics,6.17,68.1,Band 3: Skill Deficit (Moderate Risk),Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-141,Nikita Garg,Finance,7.12,73.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-142,Kabir Mehta,Finance,5.89,68.9,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-144,Aadhya Sandhu,Operations & Supply Chain,6.56,73.7,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-149,Vihaan Yadav,Marketing,6.51,68.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-152,Ishaan Rathore,Human Resource Management,4.78,63.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-154,Devansh Agarwal,Marketing,7.02,70.7,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-156,Sara Bansal,Marketing,5.48,75.9,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-157,Ananya Patel,Marketing,6.63,86.8,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-158,Krishna Mishra,Finance,6.61,72.1,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-159,Dhruv Patel,Business Analytics,6.19,72.1,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-160,Shaurya Rathore,Marketing,4.84,55.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-161,Krishna Garg,Business Analytics,6.26,77.3,Band 4: Critical Academic Intervention,Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-163,Shaurya Malhotra,Business Analytics,7.26,70.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-167,Saanvi Gupta,Finance,5.93,73.1,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-168,Ishaan Thakur,Finance,6.04,79.1,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-169,Atharv Patel,Finance,6.32,67.7,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-170,Atharv Goyal,Finance,5.39,73.5,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-174,Kartik Bhatia,Marketing,5.76,72.5,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-176,Aanya Saxena,Finance,6.13,74.8,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-177,Rishabh Nair,Business Analytics,6.36,73.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-178,Rohan Nair,Marketing,6.54,77.1,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-180,Aadhya Yadav,Business Analytics,5.73,66.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-181,Ananya Dhillon,Finance,6.17,73.9,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-182,Navya Singh,Marketing,5.02,56.7,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-183,Meera Dhillon,Human Resource Management,5.71,74.9,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-184,Aryan Reddy,Business Analytics,6.54,80.7,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-186,Ayush Singh,Business Analytics,6.37,73.8,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-188,Kavya Gupta,Finance,6.21,80.1,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-189,Meera Nair,Finance,6.38,73.8,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-190,Avani Goyal,Business Analytics,6.6,72.8,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-191,Siddharth Mehta,Finance,5.37,71.9,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-192,Devansh Dhillon,Business Analytics,6.57,80.3,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-200,Rishabh Thakur,Operations & Supply Chain,4.63,56.8,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-201,Rishabh Sandhu,Marketing,4.91,65.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-203,Rohan Gupta,Human Resource Management,6.61,82.4,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-208,Aarav Thakur,Human Resource Management,4.61,64.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-209,Vivaan Bhatia,Marketing,6.46,75.7,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-211,Ananya Chhabra,Marketing,5.56,73.1,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-212,Aarav Bansal,Finance,4.69,63.5,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-215,Arjun Nair,Finance,6.34,75.7,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-216,Bhavna Mehta,Business Analytics,6.09,82.1,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-217,Ayaan Reddy,Finance,6.3,68.1,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-220,Khushi Chauhan,Business Analytics,4.85,63.0,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-222,Dhruv Saxena,Marketing,5.61,60.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-225,Kabir Verma,Business Analytics,6.27,77.5,Band 3: Skill Deficit (Moderate Risk),Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-226,Shivam Kumar,Operations & Supply Chain,5.39,76.7,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-228,Arjun Chauhan,Human Resource Management,7.05,71.8,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-231,Arjun Gupta,Finance,5.03,65.7,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-235,Vivaan Mishra,Business Analytics,5.59,75.2,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-236,Ishaan Kapoor,Finance,5.63,72.7,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-245,Karan Chopra,Marketing,5.32,68.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-247,Tushar Nair,Operations & Supply Chain,6.24,77.9,Band 3: Skill Deficit (Moderate Risk),Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-248,Karan Chopra,Business Analytics,6.14,79.6,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-249,Aditi Thakur,Marketing,5.86,76.3,Band 4: Critical Academic Intervention,Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-250,Devansh Sandhu,Marketing,6.63,77.7,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-252,Ayaan Mishra,Human Resource Management,4.82,69.8,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-253,Anika Mishra,Marketing,5.92,73.9,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-254,Devansh Thakur,Finance,6.2,70.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-255,Yash Bansal,Marketing,6.61,83.5,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-256,Vivaan Yadav,Marketing,6.18,78.3,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-258,Khushi Saxena,Marketing,6.5,72.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-263,Shivam Saxena,Business Analytics,6.38,71.5,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-264,Kavya Singh,Marketing,6.01,77.8,Band 3: Skill Deficit (Moderate Risk),Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-265,Devansh Mehta,Finance,6.44,87.7,Band 4: Critical Academic Intervention,Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-268,Aadhya Bansal,Operations & Supply Chain,7.41,74.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-269,Riya Singh,Human Resource Management,4.6,58.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-271,Arjun Kumar,Business Analytics,6.8,73.1,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-272,Nikhil Saxena,Business Analytics,7.32,74.8,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-273,Pranav Singh,Marketing,5.58,70.0,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-276,Pranav Agarwal,Finance,5.09,62.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-278,Pranav Bansal,Business Analytics,6.32,70.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-279,Myra Kapoor,Operations & Supply Chain,6.23,72.3,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-280,Reyansh Gupta,Business Analytics,6.81,70.5,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-282,Shivam Garg,Business Analytics,4.95,58.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-284,Muskan Sharma,Human Resource Management,5.78,66.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-287,Rohan Reddy,Human Resource Management,6.23,74.9,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-288,Dhruv Chauhan,Finance,6.69,75.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-291,Aaradhya Nair,Finance,6.36,80.3,Band 3: Skill Deficit (Moderate Risk),Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-294,Meera Chauhan,Marketing,6.04,70.8,Band 3: Skill Deficit (Moderate Risk),Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-295,Vihaan Dhillon,Human Resource Management,4.6,54.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-299,Myra Thakur,Marketing,6.86,77.3,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-300,Rohan Gupta,Human Resource Management,6.46,72.1,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-301,Aaradhya Gill,Marketing,6.25,78.8,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-302,Ansh Verma,Human Resource Management,5.5,56.7,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-303,Shaurya Thakur,Marketing,4.76,69.4,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-304,Kriti Sandhu,Marketing,6.66,84.4,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-305,Avani Mishra,Finance,7.07,74.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-306,Reyansh Kaur,Operations & Supply Chain,7.13,70.3,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-307,Atharv Rathore,Marketing,6.21,75.7,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-309,Devansh Soni,Human Resource Management,5.74,65.8,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-310,Diya Goyal,Finance,6.28,60.2,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-314,Sara Chopra,Finance,6.35,78.6,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-315,Arjun Malhotra,Human Resource Management,5.05,64.7,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-319,Ishaan Verma,Marketing,6.5,70.1,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-321,Diya Chopra,Marketing,5.18,73.2,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-323,Ayaan Chauhan,Finance,6.6,73.9,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-327,Isha Sharma,Human Resource Management,5.55,66.8,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-331,Nikita Malhotra,Marketing,5.99,76.0,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-332,Tanvi Bhatia,Finance,5.33,73.7,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-333,Disha Soni,Business Analytics,6.53,77.6,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-338,Pranav Chopra,Business Analytics,4.62,65.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-339,Atharv Chauhan,Business Analytics,6.55,76.0,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-341,Muskan Rathore,Marketing,5.74,62.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-342,Aryan Reddy,Finance,5.14,66.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-344,Reyansh Jain,Human Resource Management,5.6,68.4,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-346,Aditya Chauhan,Operations & Supply Chain,6.23,75.7,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-347,Shreya Reddy,Business Analytics,6.38,78.6,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-348,Pallavi Chopra,Finance,4.6,65.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-349,Devansh Mishra,Human Resource Management,7.0,74.2,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-350,Aditya Jain,Human Resource Management,6.15,72.7,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-351,Diya Gill,Finance,6.1,79.3,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-353,Ishaan Bansal,Business Analytics,5.37,71.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-354,Meera Goyal,Human Resource Management,6.57,73.6,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-355,Isha Bansal,Marketing,6.4,74.7,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-357,Kabir Chauhan,Human Resource Management,6.25,68.9,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-360,Vihaan Chauhan,Business Analytics,5.64,76.7,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-361,Harsh Verma,Finance,6.1,84.8,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-363,Rishabh Mishra,Operations & Supply Chain,5.65,76.3,Band 4: Critical Academic Intervention,Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-364,Shreya Verma,Finance,6.81,75.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-366,Kavya Kapoor,Business Analytics,5.3,65.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-367,Rohan Garg,Finance,4.75,62.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-368,Pooja Reddy,Operations & Supply Chain,6.91,74.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-369,Harsh Chauhan,Finance,5.73,64.8,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-371,Sneha Rathore,Marketing,5.32,76.3,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-372,Nikhil Rathore,Operations & Supply Chain,6.79,80.4,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-373,Nikita Malhotra,Human Resource Management,6.44,71.3,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-375,Shreya Garg,Operations & Supply Chain,6.54,70.7,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-376,Isha Chauhan,Business Analytics,5.75,82.6,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-377,Atharv Kapoor,Finance,6.51,75.4,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-378,Pranav Jain,Finance,5.85,73.4,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-379,Pallavi Soni,Marketing,5.81,57.4,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-381,Aarav Mehta,Human Resource Management,5.43,68.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-384,Khushi Mishra,Marketing,4.6,65.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-386,Karan Kapoor,Finance,6.05,68.3,Band 3: Skill Deficit (Moderate Risk),Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-388,Kriti Gupta,Marketing,5.92,66.8,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-389,Tanvi Saxena,Business Analytics,6.64,88.6,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-390,Sneha Verma,Business Analytics,6.1,68.1,Band 3: Skill Deficit (Moderate Risk),Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-392,Kriti Bansal,Business Analytics,4.8,67.1,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-394,Kartik Bansal,Marketing,6.32,66.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-396,Nikita Reddy,Marketing,6.17,65.0,Band 3: Skill Deficit (Moderate Risk),Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-397,Anika Garg,Human Resource Management,6.05,73.3,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-398,Kartik Saxena,Finance,5.23,67.5,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-399,Simran Bhatia,Business Analytics,5.96,71.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-402,Aryan Jain,Business Analytics,5.93,70.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-403,Rohan Agarwal,Finance,7.34,80.1,Band 3: Skill Deficit (Moderate Risk),Quantitative Aptitude & Logical Reasoning Masterclass
+CU-MBA-2024-404,Aadhya Gill,Finance,5.55,66.4,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-405,Aditi Malhotra,Business Analytics,5.86,71.9,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-411,Sai Sharma,Human Resource Management,6.68,74.3,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-412,Dhruv Verma,Business Analytics,5.46,68.7,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-413,Atharv Agarwal,Marketing,5.46,76.3,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-415,Nikita Gupta,Human Resource Management,5.06,68.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-416,Aryan Jain,Finance,6.31,77.0,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-419,Reyansh Mishra,Business Analytics,5.64,58.5,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-420,Rohan Bhatia,Marketing,5.29,66.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-421,Pari Garg,Marketing,6.21,76.7,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-423,Ishaan Garg,Business Analytics,7.08,73.8,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-425,Vihaan Bhatia,Business Analytics,6.66,80.7,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-428,Isha Goyal,Operations & Supply Chain,6.15,81.1,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-429,Riya Soni,Finance,6.73,67.7,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-430,Pranav Gupta,Finance,5.75,75.8,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-435,Tanvi Garg,Finance,5.96,69.8,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-437,Kavya Gupta,Finance,7.3,74.1,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-438,Karan Kaur,Operations & Supply Chain,6.99,72.9,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-440,Muskan Sharma,Human Resource Management,5.69,70.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-442,Aarav Nair,Marketing,5.93,73.0,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-446,Bhavna Jain,Finance,6.47,78.3,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-447,Isha Kaur,Finance,5.02,62.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-448,Vihaan Jain,Marketing,6.14,68.8,Band 3: Skill Deficit (Moderate Risk),Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-452,Rohan Chauhan,Human Resource Management,5.85,61.7,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-453,Rohan Sharma,Finance,6.43,68.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-455,Sneha Mishra,Finance,5.5,67.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-456,Rohan Chopra,Human Resource Management,5.32,66.9,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-458,Atharv Verma,Operations & Supply Chain,5.48,59.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-460,Shreya Sandhu,Finance,5.99,69.4,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-463,Atharv Sandhu,Marketing,6.45,78.1,Band 4: Critical Academic Intervention,Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-464,Harsh Verma,Marketing,5.72,71.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-465,Shivam Nair,Business Analytics,5.65,63.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-466,Sonali Chauhan,Human Resource Management,4.94,62.0,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-467,Shaurya Malhotra,Finance,6.34,78.8,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-469,Ishaan Nair,Finance,6.63,78.5,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-472,Karan Nair,Human Resource Management,4.97,67.4,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-477,Ayush Gill,Human Resource Management,5.93,70.3,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-479,Shaurya Malhotra,Operations & Supply Chain,5.55,61.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-480,Ansh Agarwal,Finance,6.22,78.5,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-481,Pranav Dhillon,Marketing,5.05,64.4,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-482,Reyansh Kapoor,Finance,5.01,64.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-485,Pooja Thakur,Business Analytics,5.9,63.5,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-486,Aryan Soni,Operations & Supply Chain,5.89,67.4,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-487,Ishaan Verma,Human Resource Management,5.3,65.4,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-488,Atharv Chhabra,Operations & Supply Chain,5.85,67.8,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-489,Reyansh Bhatia,Finance,4.93,57.0,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-490,Kavya Goyal,Operations & Supply Chain,5.5,63.8,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-491,Disha Yadav,Finance,4.91,67.9,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-492,Sonali Chauhan,Business Analytics,6.05,79.9,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-494,Arjun Sharma,Finance,5.23,69.7,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-497,Simran Verma,Human Resource Management,5.18,77.7,Band 4: Critical Academic Intervention,Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-498,Pooja Kapoor,Human Resource Management,6.57,76.0,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-499,Vivaan Chhabra,Marketing,6.35,77.9,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-500,Sai Chhabra,Finance,5.91,71.6,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-502,Siddharth Chopra,Business Analytics,6.32,73.5,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-503,Meera Singh,Finance,6.19,81.5,Band 4: Critical Academic Intervention,Domain Skill Accelerator: Mandatory Industry Certification (Coursera/NPTEL) & Project
+CU-MBA-2024-505,Arjun Rathore,Marketing,6.72,75.6,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-506,Aaradhya Jain,Finance,6.32,80.6,Band 4: Critical Academic Intervention,Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-509,Pranav Garg,Human Resource Management,6.28,71.1,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-510,Aditya Kumar,Human Resource Management,6.32,71.4,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-512,Navya Reddy,Business Analytics,5.63,66.5,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-515,Sai Kumar,Human Resource Management,6.66,77.9,Band 3: Skill Deficit (Moderate Risk),Comprehensive Dual-Focus Plan: Academic Tutoring & Employability Mentorship
+CU-MBA-2024-516,Nikhil Singh,Finance,4.65,58.2,Band 4: Critical Academic Intervention,Urgent Academic Recovery: Mandatory Remedial Classes & Dean-Level Mentoring
+CU-MBA-2024-517,Atharv Mishra,Marketing,7.51,70.0,Band 3: Skill Deficit (Moderate Risk),Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
+CU-MBA-2024-518,Dhruv Gill,Finance,5.97,72.1,Band 4: Critical Academic Intervention,Attendance Shortage Notice & Compensatory Weekend Tutorial Tracking
